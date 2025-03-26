@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hideaki-kawai
-- 👀 I’m interested in Vue.js/Nuxt.js React.js/Next.js
+- 👀 I’m interested in React Router/Next.js
 - 🌱 I’m currently learning these.
 
 <!---
